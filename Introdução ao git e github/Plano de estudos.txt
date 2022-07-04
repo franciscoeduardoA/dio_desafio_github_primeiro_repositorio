@@ -1,0 +1,4 @@
+revisar o assunto de git\github 15/07
+revisar html e css 20/07
+terminar a introdução ao Javascript 25/07
+terminar o bootcamp 03/08
